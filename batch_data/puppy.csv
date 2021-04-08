@@ -1,0 +1,12 @@
+id,name,age,breed,colour,characteristics,owner_id
+1,Socks,2,Lab,Black,friendly,1
+2,Baylee,4,Husky,Brown,easyTOtrain,2
+3,Ghost,3,Akita,White,aggressive,3
+4,Shasha,4,German Shepard,Brown,aggressive,4
+5,Jerry,3,Akita,Brown,friendly,5
+6,Artemes,2,Husky,Grey,noisy,6
+7,Gerome,6,Husky,Brown,kidsfriendly,7
+8,Sammy,8,Lab,Brown,adoptive,8
+9,Freedom,4,Poodle,Black,noisy,10
+10,Garf,4,Akita,White,adoptive,9
+11,Macho,2,Husky,black,kidsfriendly,11
